@@ -72,7 +72,7 @@ int main(){
     // => 0 
     // The offset 20 exceeds the length of the string. It prints a unpredictable value.
 
-    cout << myname[10000] << endl;
+    // cout << myname[10000] << endl;
     // => segmentation fault! 
     // The offset 10000 far-exceeds the length of the string, as well as the program size. It causes a crash.
 
