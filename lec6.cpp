@@ -95,7 +95,7 @@ int main(){
     // cout << c << endl;
     // => ?
 
-    // what is 'A'?    
+    // How can we print 'A'?    
     // c = ?
     // cout << c << endl;
 
